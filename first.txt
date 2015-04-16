@@ -1,7 +1,9 @@
-ls
+l
 cat first.txt
 segundo cambio... \
 tercera linea
 cuarta linea, colaboradore
 quinta linea
 lina mtida por david
+esta es una sexta linea pedida por nato
+
